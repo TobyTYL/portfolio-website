@@ -19,9 +19,9 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
         As someone who loves to challenge the unknown and enjoys the journey, with a background that spans data
-        science and computer science, I've found my niche in the world of technology and innovation.
+        science and computer science, I have found my niche in the world of technology and innovation.
         I feel passionate about creating and diving into the unknown. I am rewarded when I can translate my
-        thoughts onto a computer and bring them to life through the keyboard's keystrokes.
+        thoughts onto a computer and bring them to life through the keyboard keystrokes.
         By crafting precise algorithms, I enable the computer to simulate human behaviors and automate tasks.
         This transformative process, turning ideas into digital sequences, amazes me.
 
