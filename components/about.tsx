@@ -15,8 +15,7 @@ export default function About() {
       initial={{ opacity: 0, y: 100 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ delay: 0.175 }}
-      id="about"
-    >
+      id="about">
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
         As someone who loves to challenge the unknown and enjoys the journey, with a background that spans data
@@ -26,12 +25,13 @@ export default function About() {
         By crafting precise algorithms, I enable the computer to simulate human behaviors and automate tasks.
         This transformative process, turning ideas into digital sequences, amazes me.
 
-        <p>My specialties include quickly learning new skills and programming languages. So far, I have
+        <span>My specialties include quickly learning new skills and programming languages. So far, I have
           <span className="font-medium">
             C/C++ 11, Python, Rust, Java, MySQL, TypeScript, HTML 5, CSS, JavaScript under my belt. {""}
           </span>
           I remain eager to learn and incorporate any new programming languages, frameworks, or concepts into my
-          growing coding knowledge.</p>
+          growing coding knowledge.
+        </span>
 
       </p>
 
